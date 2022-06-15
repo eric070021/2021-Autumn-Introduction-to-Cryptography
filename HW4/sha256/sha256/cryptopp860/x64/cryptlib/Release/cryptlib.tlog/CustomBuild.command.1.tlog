@@ -1,0 +1,11 @@
+^C:\USERS\ERIC\DESKTOP\CRYPTOPP860\ADHOC.CPP.PROTO
+if not exist adhoc.cpp copy "C:\Users\ERIC\Desktop\cryptopp860\adhoc.cpp.proto" adhoc.cpp
+        echo: >> adhoc.cpp.copied
+^C:\USERS\ERIC\DESKTOP\CRYPTOPP860\RDRAND.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Cx /Zi /Fo"x64\cryptlib\Release\rdrand-x64.obj" "C:\Users\ERIC\Desktop\cryptopp860\rdrand.asm"
+^C:\USERS\ERIC\DESKTOP\CRYPTOPP860\RDSEED.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Cx /Zi /Fo"x64\cryptlib\Release\rdseed-x64.obj" "C:\Users\ERIC\Desktop\cryptopp860\rdseed.asm"
+^C:\USERS\ERIC\DESKTOP\CRYPTOPP860\X64DLL.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Zi /Fo"x64\cryptlib\Release\x64dll.obj" "C:\Users\ERIC\Desktop\cryptopp860\x64dll.asm"
+^C:\USERS\ERIC\DESKTOP\CRYPTOPP860\X64MASM.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Zi /Fo"x64\cryptlib\Release\x64masm.obj" "C:\Users\ERIC\Desktop\cryptopp860\x64masm.asm"

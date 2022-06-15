@@ -1,0 +1,224 @@
+﻿  Performing Custom Build Tools
+  複製了         1 個檔案。
+  Building and assembling rdrand.asm
+   Assembling: C:\Users\ERIC\Desktop\cryptopp860\rdrand.asm
+  Building and assembling rdseed.asm
+   Assembling: C:\Users\ERIC\Desktop\cryptopp860\rdseed.asm
+  Building and assembling x64dll.asm
+   Assembling: C:\Users\ERIC\Desktop\cryptopp860\x64dll.asm
+  Building and Assembling x64masm.asm
+   Assembling: C:\Users\ERIC\Desktop\cryptopp860\x64masm.asm
+  pch.cpp
+  cryptlib.cpp
+  cpu.cpp
+  integer.cpp
+  3way.cpp
+  adler32.cpp
+  algebra.cpp
+  algparam.cpp
+  allocate.cpp
+  arc4.cpp
+  aria.cpp
+  aria_simd.cpp
+  ariatab.cpp
+  asn.cpp
+  authenc.cpp
+  base32.cpp
+  base64.cpp
+  basecode.cpp
+  bfinit.cpp
+  blake2.cpp
+  blake2s_simd.cpp
+  正在產生程式碼...
+  正在編譯...
+  blake2b_simd.cpp
+  blowfish.cpp
+  blumshub.cpp
+  camellia.cpp
+  cast.cpp
+  casts.cpp
+  cbcmac.cpp
+  ccm.cpp
+  chacha.cpp
+  chacha_simd.cpp
+  chachapoly.cpp
+  cham.cpp
+  cham_simd.cpp
+  channels.cpp
+  cmac.cpp
+  crc.cpp
+  crc_simd.cpp
+  darn.cpp
+  default.cpp
+  des.cpp
+  正在產生程式碼...
+  正在編譯...
+  dessp.cpp
+  dh.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  dh2.cpp
+  donna_32.cpp
+  donna_64.cpp
+  donna_sse.cpp
+  dsa.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  eax.cpp
+  ec2n.cpp
+  ecp.cpp
+  elgamal.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  emsa2.cpp
+  esign.cpp
+  files.cpp
+  filters.cpp
+  fips140.cpp
+  fipstest.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\eccrypto.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\mqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\fhmqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\rw.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  gcm.cpp
+  gcm_simd.cpp
+  gf256.cpp
+  正在產生程式碼...
+  正在編譯...
+  gf2_32.cpp
+  gf2n.cpp
+  gf2n_simd.cpp
+  gfpcrypt.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  gost.cpp
+  gzip.cpp
+  hc128.cpp
+  hc256.cpp
+  hex.cpp
+  hight.cpp
+  hmac.cpp
+  hrtimer.cpp
+  ida.cpp
+  idea.cpp
+  kalyna.cpp
+  kalynatab.cpp
+  keccak.cpp
+  keccak_core.cpp
+  keccak_simd.cpp
+  lea.cpp
+  正在產生程式碼...
+  正在編譯...
+  lea_simd.cpp
+  lsh256.cpp
+  lsh256_sse.cpp
+  lsh256_avx.cpp
+  lsh512.cpp
+  lsh512_sse.cpp
+  lsh512_avx.cpp
+  luc.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  mars.cpp
+  marss.cpp
+  md2.cpp
+  md4.cpp
+  md5.cpp
+  misc.cpp
+  modes.cpp
+  mqueue.cpp
+  mqv.cpp
+C:\Users\ERIC\Desktop\cryptopp860\mqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\fhmqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\eccrypto.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  nbtheory.cpp
+  oaep.cpp
+  osrng.cpp
+  正在產生程式碼...
+  正在編譯...
+  padlkrng.cpp
+  panama.cpp
+  pkcspad.cpp
+  poly1305.cpp
+  polynomi.cpp
+  pssr.cpp
+  pubkey.cpp
+  queue.cpp
+  rabin.cpp
+  randpool.cpp
+  rabbit.cpp
+  rc2.cpp
+  rc5.cpp
+  rc6.cpp
+  rdrand.cpp
+  rdtables.cpp
+  rijndael.cpp
+  rijndael_simd.cpp
+  ripemd.cpp
+  rng.cpp
+  正在產生程式碼...
+  正在編譯...
+  rsa.cpp
+  rw.cpp
+C:\Users\ERIC\Desktop\cryptopp860\rw.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  safer.cpp
+  salsa.cpp
+  scrypt.cpp
+  seal.cpp
+  seed.cpp
+  serpent.cpp
+  sha.cpp
+  sha_simd.cpp
+  sha3.cpp
+  shacal2.cpp
+  shacal2_simd.cpp
+  shake.cpp
+  shark.cpp
+  sharkbox.cpp
+  simeck.cpp
+  simon.cpp
+  simon128_simd.cpp
+  simple.cpp
+  正在產生程式碼...
+  正在編譯...
+  skipjack.cpp
+  sm3.cpp
+  sm4.cpp
+  sm4_simd.cpp
+  sosemanuk.cpp
+  speck.cpp
+  speck128_simd.cpp
+  square.cpp
+  squaretb.cpp
+  sse_simd.cpp
+  strciphr.cpp
+  tea.cpp
+  tftables.cpp
+  threefish.cpp
+  tiger.cpp
+  tigertab.cpp
+  ttmac.cpp
+  tweetnacl.cpp
+  twofish.cpp
+  vmac.cpp
+C:\Users\ERIC\Desktop\cryptopp860\vmac.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  正在編譯...
+  wake.cpp
+  whrlpool.cpp
+  xed25519.cpp
+  xtr.cpp
+  xtrcrypt.cpp
+  xts.cpp
+  zdeflate.cpp
+  zinflate.cpp
+  zlib.cpp
+  正在產生程式碼...
+  chacha_avx.cpp
+  dll.cpp
+C:\Users\ERIC\Desktop\cryptopp860\gfpcrypt.h(675,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\eccrypto.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\mqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\fhmqv.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\eccrypto.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ERIC\Desktop\cryptopp860\rw.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  iterhash.cpp
+  正在產生程式碼...
+  cryptlib.vcxproj -> C:\Users\ERIC\Desktop\cryptopp860\x64\Output\Release\cryptlib.lib

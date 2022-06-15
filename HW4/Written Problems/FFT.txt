@@ -1,0 +1,10 @@
+a=zeros(1,1024); % preallocate
+for k=1:1024
+    a(k) = powermod(7,k,39)  ; 
+end
+Y = fft(a);
+P = abs(Y);
+s = sum(P);
+t = P/s;
+
+[peaks, locs] = findpeaks(t)
